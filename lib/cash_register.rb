@@ -14,7 +14,7 @@ class CashRegister                # describe 'CashRegister
       @total = quantity * price
       quantity.times do
         items << title
-      
+
       end
     end
 
